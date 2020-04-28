@@ -4,7 +4,7 @@ The Purpose of our project (The Bank Management Application) is to design an int
 
 ## Getting Started
 
-A computer based banking management(ICICI-lookalike) application which is designed to handle all the primary information of customer account(s) which include account activites of any customer such as insert, delete, display and more. Separate database is maintained to handle all the details required for the correct informations.
+A computer based banking management(ICICI-lookalike) application which is designed to handle all the primary information of customer account(s) which include account activites of any customer such as insert, delete, display and more. Separate database is maintained to handle all the details required for the correct informations. The MS Access Database has also been added for E2E understanding of this project.
 
 
 ### Prerequisites
