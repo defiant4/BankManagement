@@ -1,0 +1,18 @@
+Line 139: Class MSComCtl2.DTPicker of control dtpDateOfBirth was not a loaded control class.
+Line 459: Class MSComCtl2.DTPicker of control dtpExpiryDate was not a loaded control class.
+Line 480: Class MSComCtl2.DTPicker of control dtpOpenDate was not a loaded control class.
+Line 145: The property name _ExtentX in dtpDateOfBirth is invalid.
+Line 146: The property name _ExtentY in dtpDateOfBirth is invalid.
+Line 147: The property name _Version in dtpDateOfBirth is invalid.
+Line 157: The property name Format in dtpDateOfBirth is invalid.
+Line 158: The property name CurrentDate in dtpDateOfBirth is invalid.
+Line 465: The property name _ExtentX in dtpExpiryDate is invalid.
+Line 466: The property name _ExtentY in dtpExpiryDate is invalid.
+Line 467: The property name _Version in dtpExpiryDate is invalid.
+Line 477: The property name Format in dtpExpiryDate is invalid.
+Line 478: The property name CurrentDate in dtpExpiryDate is invalid.
+Line 486: The property name _ExtentX in dtpOpenDate is invalid.
+Line 487: The property name _ExtentY in dtpOpenDate is invalid.
+Line 488: The property name _Version in dtpOpenDate is invalid.
+Line 498: The property name Format in dtpOpenDate is invalid.
+Line 499: The property name CurrentDate in dtpOpenDate is invalid.
