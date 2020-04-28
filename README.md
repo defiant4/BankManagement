@@ -1,4 +1,4 @@
-# BankManagement
+# VBBankManagement
 
 The Purpose of our project (The Bank Management Application) is to design an interactive, user friendly application for handling all customer related activities in banking.The application has been implemented using VB 6.0,MS Access Database with various event driven logical methods.
 
